@@ -1,23 +1,12 @@
-# :closed_book:Anotações DIO
+# :shipit: ANOTAÇÕES DOS MEUS ESTUDOS
 
-## :bookmark:RESUMO
-Criei esse repositório para fazer algumas anotações e ao mesmo tempo práticar o uso do GitHub/Git.
+## RESUMO
+Esse repositório será o local onde irei por todas as minhas anotações de tudo que eu estudar tanto na faculdade de Engenharia de Software, quanto de outros cursos ou bootcamps, a ideia é poder ter um cantinho onde possa guardar minhas anotações de forma organizada sem ter que gastar rios de folhas kkkkk.
 
-## :pushpin:ANOTAÇÕES
+## :pushpin: ÍNDICE
+[GIT/GITHUB]() 
 
-### GIT/GITHUB
 
-“ADD a README file”: basicamente é a criação de um arquivo que será a nossa frontpage, é através desse arquivo que irei configurar a página do meu projeto.
 
-“GIT BASH”: é um terminal extendido para otimizar o uso do Git.
-
-COMMANDS:
-
-- git clone link-do-repositório-github    /   Clona o repositório do GitHub para o Git;
-- cd nome-pasta    /   Entra na pasta selecionada;
-- git status    /   Verifica status da sua Branch;
-- git add .    /    Adiciona todos os commits;
-- git commit -m “descrição do commit”    /    Adiciona as mudanças no controle de versão;
-- git push origin main    /    Manda os commits do repositório local da Branch main para o repositório GitHub;
 
 
